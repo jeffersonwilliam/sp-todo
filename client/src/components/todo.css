@@ -1,0 +1,5 @@
+.modal-style {
+  /* --mb-z-index: 200; */
+  display: flex;
+  flex-direction: row-reverse;
+}
